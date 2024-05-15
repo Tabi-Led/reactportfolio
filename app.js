@@ -5,6 +5,7 @@ import Portfolio from './Portfolio';
 import Contact from './Contact';
 import Resume from './Resume';
 import Footer from './Footer';
+import './App.css';
 
 function App() {
   const [currentSection, setCurrentSection] = useState('AboutMe');
