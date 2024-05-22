@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/developer-portfolio.git
+
 Navigate to the project directory:
 bash
 Copy code
