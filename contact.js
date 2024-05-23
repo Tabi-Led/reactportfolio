@@ -35,13 +35,13 @@ function Contact() {
       <h2>Contact</h2>
       <form onSubmit={handleSubmit}>
         <label>
-          Name:
-          <input type="text" name="name" value={formData.name} onChange={handleChange} />
+          Name: 
+          <input type="text" name="Tabitha Ledford" value={formData.name} onChange={handleChange} />
           {errors.name && <span>{errors.name}</span>}
         </label>
         <label>
           Email:
-          <input type="email" name="email" value={formData.email} onChange={handleChange} />
+          <input type="email" name="tabiletallecx@gmail.com" value={formData.email} onChange={handleChange} />
           {errors.email && <span>{errors.email}</span>}
         </label>
         <label>
