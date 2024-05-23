@@ -4,7 +4,7 @@ import './Header.css';
 function Header({ currentSection, setCurrentSection }) {
   return (
     <header>
-      <h1>Developer Name</h1>
+      <h1>Tabitha Ledford</h1>
       <nav>
         <ul>
           <li className={currentSection === 'AboutMe' ? 'active' : ''} onClick={() => setCurrentSection('AboutMe')}>About Me</li>
