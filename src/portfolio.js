@@ -1,11 +1,11 @@
 import React from 'react';
-import './Portfolio.css';
+// import './Portfolio.css';
 
 function Portfolio() {
   const projects = [
     { title: 'Project 1', image: 'project1.jpg', liveLink: '#', repoLink: '#' },
     { title: 'Project 2', image: 'project2.jpg', liveLink: '#', repoLink: '#' },
-    // Add 4 more projects
+    // Add more projects as needed 
   ];
 
   return (

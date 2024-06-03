@@ -1,5 +1,5 @@
 import React from 'react';
-import './Resume.css';
+// import './Resume.css';
 
 function Resume() {
   const proficiencies = ['JavaScript', 'React', 'Node.js', 'CSS', 'HTML'];
